@@ -1,7 +1,7 @@
 I am a person that does things
 Sometimes those things are strange
 Sometimes those things are useful
-Sometimes tose things are pointless
+Sometimes those things are pointless
 Sometimes those things are fun
 Sometimes those things are boring
 
